@@ -96,32 +96,32 @@ footer {
 }
 
 @media screen and (max-width: 600px) {
-h1{
-  font-size: 3rem;
-}
-.drum{
-  width: 80px;
-  height: 80px;
-  font-size: 2.5rem;
-}
+    h1{
+      font-size: 3rem;
+    }
+    .drum{
+      width: 80px;
+      height: 80px;
+      font-size: 2.5rem;
+    }
 }
 
 @media screen and (max-width: 900px) {
 
-.set{
-  flex-direction: column;
-}
-.drum{
-  width: 150px;
-  height: 150px;
-  font-size: 5rem;
-}
+    .set{
+      flex-direction: column;
+    }
+    .drum{
+      width: 150px;
+      height: 150px;
+      font-size: 5rem;
+    }
 }
 
 @media screen and (max-width:1205px) {
-  .drum{
-  width: 100px;
-  height: 100px;
-  font-size: 3.5rem;
-}
+    .drum{
+      width: 100px;
+      height: 100px;
+      font-size: 3.5rem;
+    }
 }
